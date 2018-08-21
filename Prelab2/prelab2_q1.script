@@ -1,0 +1,34 @@
+Script started on Fri 16 Sep 2016 10:04:44 AM MDT
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab2[00m$ exit./question1 [1Pqgcc -g -Wall prelab2q1.c -o question1
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab2[00m$ gcc -g -Wall prelab2q1.c -o question1exit[K./question1 
+enter and integer: 
+1
+first is the worst.
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab2[00m$ ./question1 
+enter and integer: 
+2
+second is the best beacuse the second mouse gets the cheese
+and it is the first prime number. ]0;joey@joey-P7xxDM-G: ~/cse113/prelab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab2[00m$ ./question1 
+enter and integer: 
+3
+insert witty condesending message here 
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab2[00m$ ./question1 
+enter and integer: 
+4
+insert witty condesending message here 
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab2[00m$ ./question1 
+enter and integer: 
+5
+you know, 5 of 6 doctors agree russian roulette is harmless. 
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab2[00m$ ./question1 
+enter and integer: 
+6
+insert witty condesending message here 
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab2[00m$ ./question1 
+enter and integer: 
+7
+insert witty condesending message here 
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab2[00m$ w[Kend[K[Kxt[Kit
+exit
+
+Script done on Fri 16 Sep 2016 10:05:58 AM MDT

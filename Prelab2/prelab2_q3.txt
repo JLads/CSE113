@@ -1,0 +1,9 @@
+The two codes from questions one and two are functionally identical.
+They revieve an input and test it against a set of truth declarations
+and from that determine what function to run. I personally find that 
+I can understand both of these forms of the code, be it switch or if-else.
+Both follow a nice logical flow. As I see it, if-else blocks are good for
+smaller tests. The thing about them is it has to go through each piece
+if-else block to get to the result. A switch can do the tests for equality
+all at the same time and hence reach a conclusion much faster for say,
+1 billion cases.

@@ -1,0 +1,22 @@
+Script started on Fri 16 Sep 2016 02:06:05 PM MDT
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab2[00m$ gcc -g -w[KWall prelab2q[K_q2.c -[K-o question2
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab2[00m$ ./wu[K[Kquestoin[K[K[Kion2
+enter an interger: 
+1
+one is a lonely number. 
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab2[00m$ ./question2
+enter an interger: 
+3
+But thee is just as bad as one but actually worse, because it's 3.
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab2[00m$ ./question2
+enter an interger: 
+7
+Ya feeling lucky punk? Cause I ate 9.
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab2[00m$ ./question2
+enter an interger: 
+12
+I could sing about 12, but I really dont care enough. Im too busy commenting on this code.
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab2[00m$ en[Kxit
+exit
+
+Script done on Fri 16 Sep 2016 02:07:19 PM MDT
