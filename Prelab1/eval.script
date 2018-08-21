@@ -1,0 +1,23 @@
+Script started on Sun 11 Sep 2016 10:51:55 AM MDT
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ exit./eval2[Kgcc -g -Wall eval.c -o eval
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ gcc -g -Wall eval.c -o eval[Kgcc -g -Wall eval.c -o evalexit[K./eval
+enter value to eval^[[A    0
+the result is 0.666667
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ ./eval
+enter value to eval1
+the result is 1.000000
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ ./eval
+enter value to eval2^[[A     2
+the result is 1.333333
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ ./eval5
+bash: ./eval5: No such file or directory
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ ./eval5[K
+enter value to eval5
+the result is 2.333333
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ ./eval
+enter value to eval10
+the result is 4.000000
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ exit
+exit
+
+Script done on Sun 11 Sep 2016 10:52:33 AM MDT

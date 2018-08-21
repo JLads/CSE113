@@ -1,0 +1,22 @@
+Script started on Sun 11 Sep 2016 10:19:15 AM MDT
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ exit./evalgcc -g -Wall eval.c -o eval[C[K[K[K[Kcoins[C[1P[1P[1P[1P[1@c[1@o[1@i[1@n[1@s
+[01m[Kgcc:[m[K [01;31m[Kerror: [m[Kcoins.c: No such file or directory
+[01m[Kgcc:[m[K [01;31m[Kfatal error: [m[Kno input files
+compilation terminated.
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ gcc -g -Wall coins.c -o coins[C[1P
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ ./coins
+number of pennies?1
+number of nickels?2
+number of dimes?3
+number of quarters ?4
+the value of this change is 141 cents 
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ ./coins
+number of pennies?13
+number of nickels?7
+number of dimes?18
+number of quarters ?27
+the value of this change is 903 cents 
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ exit
+exit
+
+Script done on Sun 11 Sep 2016 10:20:19 AM MDT

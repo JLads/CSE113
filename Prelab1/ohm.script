@@ -1,0 +1,24 @@
+Script started on Mon 12 Sep 2016 09:28:06 AM MDT
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ vim lab1.c cd Lab1_calculator/..[K[1P..vim ohm.cls[Kcd prelab1/ls[Kcd ..vim lab1.cls[Kvim lab1.c[5Pcd ..[3Plscd prelab1/ls[Kvim ohm.c[5Pcd.. ..Lab1_calculator/[8Pvim lab1.c [Kgcc -g -Wall ohm.c -o ohm
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ ./ohm
+if value is unknown enter 0
+enter volts 120
+enter amps15
+enter resistance0
+ohms of resistance equals 8.000000
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ ./ [Kohm
+if value is unknown enter 0
+enter volts0
+enter amps1
+enter resistance4000
+volts equals 4000.000000
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ ./ohm
+if value is unknown enter 0
+enter volts15
+enter amps0
+enter resistance1000
+amps equals 0.015000
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ exit
+exit
+
+Script done on Mon 12 Sep 2016 09:29:27 AM MDT

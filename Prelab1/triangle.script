@@ -1,0 +1,15 @@
+Script started on Sun 11 Sep 2016 10:12:22 AM MDT
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ exit./triangle[1Pegcc -g -Wall triangle.c
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ gcc -g -Wall triangle.cexit[Kgcc -g -Wall triangle.c -o tra[Kiangle
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ ./triangle
+enter first angle 45
+enter second angle 45
+the third angle is 90
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ ./ tr[K[K[Ktriangle
+enter first angle 39 0 
+enter second angle 60
+the third angle is 90
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ exit
+exit
+
+Script done on Sun 11 Sep 2016 10:13:14 AM MDT

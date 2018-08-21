@@ -1,0 +1,21 @@
+Script started on Sun 11 Sep 2016 10:57:31 AM MDT
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ vim exch.cls[Kvim eval.c[K[K[K[K[K[K[K[K[K[Kgcc -g -Wall es[Kxch./[K[Kc[K.c -o es[Kxch
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ ./exch
+enter dollars.1
+enter euros..75
+entered dollars coverts to 0.750000 euros
+entered euros converts to $1.000000
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ ./exch
+enter dollars.10
+enter euros.10
+entered dollars coverts to 7.500000 euros
+entered euros converts to $13.333333
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ ./exch
+enter dollars.100.25
+enter euros.100.25
+entered dollars coverts to 75.187500 euros
+entered euros converts to $133.666672
+]0;joey@joey-P7xxDM-G: ~/cse113/prelab1[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/prelab1[00m$ exit
+exit
+
+Script done on Sun 11 Sep 2016 10:58:51 AM MDT
