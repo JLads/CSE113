@@ -1,0 +1,9 @@
+Script started on Fri 21 Oct 2016 10:47:35 AM MDT
+]0;joey@joey-P7xxDM-G: ~/113cse/lab6[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/113cse/lab6[00m$ gcc -g -Wall pointer.c
+]0;joey@joey-P7xxDM-G: ~/113cse/lab6[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/113cse/lab6[00m$ ./a.out
+0
+1
+]0;joey@joey-P7xxDM-G: ~/113cse/lab6[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/113cse/lab6[00m$ exit
+exit
+
+Script done on Fri 21 Oct 2016 10:47:46 AM MDT

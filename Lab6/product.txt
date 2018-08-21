@@ -1,0 +1,8 @@
+(a=5, b=5) at product.c:9
+#1  0x0000000000400565 in product (a=5, b=6) at product.c:13
+#2  0x0000000000400565 in product (a=5, b=7) at product.c:13
+#3  0x0000000000400565 in product (a=5, b=10) at product.c:13
+#4  0x000000000040059a in main () at product.c:21
+(gdb) 
+y[j] = new_y;
+

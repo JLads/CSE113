@@ -1,0 +1,77 @@
+Man for GDB
+
+
+file  load file to debug
+
+backtrace -bt   this displays program stack
+
+run -r   execute loaded executable
+
+list -l  print source code that lies close to the current point
+
+help -h  list options with short description
+
+break  -b  sets tmp breakpoint at location in file
+
+continue -c  resume running from breakpoint
+
+step -s  execute next line in program; does not skip function calls
+
+bt full backtrace but also shows the values of variables at the points in the stack
+
+print -p  show value of a variable 
+
+frame  prints current frame of stack (bt to list other frames)
+
+kill  ends current debug and starts a new session (preserves break points)
+
+next -n  like step but skips over subroutines 
+
+info b
+
+disable  tmp disables the indicated line of code
+
+enable   enables a previously disabled line of code
+
+delete   deletes a line of code
+
+-watch  tracks a variable as it changes values
+
+
+
+
+
+
+Corrections:
+
+in bad.c
+Message and msg need to be equal. Here I set the address of message = to the address of msg so they both now point to the address containing the hellow world message.
+
+
+in product.c
+Here we have a case of not knowing what to do with a case. Within the recursive calls you end up with the funcion having sets of a and b. when a=b everything is fine. But the only way to get a 10 into the multiplication is to have a 10=10. as the code was that was impossible. By adding one to the mid in the produt(mid, b) it cycles through from 7 to 10 with the correct a==b cases including 10, making it come up with the correct solution.
+
+
+in pointer.c
+first error is where it read p=a;  In this code p is a pointer and so the correct way to set a pointer is p = &a. This is a simple mistake. Further on it sets b = &p. This would make b = 0. The pdf says the output should be 
+0
+1
+To do this simply get rid of the augment of b as b is aready set to one earlier on.
+
+
+in sort easy
+Here the comparison of a[j] and the new lowest index was originally set as a[j] vs current. This made it so that it would set lowest index if the value in questions was lower than the current, not lower than the lowest index as it should be.
+
+int insert sort
+this one was a pain. 
+First there was no includes for stdio and stdlib. This problem is obvious.
+
+The function scoot_over had int jj instead of int j. jj was never set so this caused a problem.
+
+In scoot_over a for loop is used. It was set to incriment k but that caused it to scoot over from the wrong side of the array. You want to start on the scoot over check to see if the test number is less than the greatest value which theoretically should be at the end of the array, not the beginning. Also there was another use of jj instead of j.
+
+In the function insert, the first if statement had num_y = 0. This would reset num_y as zero instead of compare num_y and 0. Just make it num_y==0 and it works fine.
+
+Later on in insert, there is an if statement to test a cycle of y[j] against the new input. There is no case though after the nested if statement however that will insert the number should all iterations of the if statement come back as false. This made it so that the last value of the input was never written to the array. The line to input the value tested should the if statement fails needs to go just after the close of the for loop that holds the if statement.
+
+

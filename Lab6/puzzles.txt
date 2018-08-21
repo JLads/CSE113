@@ -1,0 +1,65 @@
+Lab 6 Puzzles
+
+
+
+1: 
+x=2, y=1, z=1
+x=2, y=2, z=1
+x=2, y=2, z=2
+x=0, y=-1, z=0
+x=0, y=-1, z=-1
+x=0, y=0, z=0
+
+2:
+OS_HP-UX_print should be OS_HP_UX_print
+
+3:
+This has no include stdio.h so nothing will happen.
+
+4:
+This will print "f is NOT 1.0." The trick lies in f=0.0f.   While the function adds to one on paper, 0.1 in binary is an infinite repeating decimal, like 1/3 is in base 10/ If you add .1 to itself in binary 10 times you end up with .999999999999999999999999999999999999999999999999999999999999 out to the infinityth decimal. It will never equal exactly 1.0
+
+
+5:
+int a is assigned to two values when it cannot be.
+
+6:
+This will not print out 10. in the size function the array is passed in incorrectlly. It should be (int arr[], int SIZE) as two seperate entities, not one entry.
+
+
+7;
+There is a space in the second scanf before the %c. This means it will return a space and then whatever was in char c instead of just the char. When you remove the space it behaves normally.
+
+8:
+The output is 
+
+i : 10
+sizeof(i++) is: 4
+i : 10
+
+This is because an int is 4 bytes so sizeof finds 4 bytes. Due to the i++ being in a print call in the way it is, it is only implemented for that print. Thus the second print of i is till 10
+
+
+
+
+9:
+To fix this the correct format for the %d statements would be %0d in the print for days and months. This would 0 pad the numbers and fix the problem.
+
+
+10:
+This should have i++ not i-- with i starting at 0.
+
+
+11:
+This will cause a dump or somehting but it wont print anything productive. The thing is that int a is never set to any value besides any garbage data left there from other code. Also there is no way to break out of the do while loop so it would in theory just keep running forever.
+
+12:
+The return 8.
+(++i < 7) && ( i++/6)) || (++i <= 9)
+What happens in this code line is the following;
+++i < 7   incriments i and then tests i<7.  I now = 7.
+i++/6   tests i/6. Because i = 7 i/6 is false so i++ doesn't happen
+++i <=9   incriments i. i = 8 now. 8<9 so the if conditional is met.
+print i
+i = 8
+prints 8
