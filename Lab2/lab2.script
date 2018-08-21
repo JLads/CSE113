@@ -1,0 +1,211 @@
+Script started on Mon 19 Sep 2016 10:47:30 AM MDT
+]0;joey@joey-P7xxDM-G: ~/cse113/lab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab2[00m$ vim lab2.cls[Kcd lab2/[3P..\[K[K[K[K[K[Kgcc -g -@a[K[KWall lab2.c -lm -o calculator2
+]0;joey@joey-P7xxDM-G: ~/cse113/lab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab2[00m$ ./calculator2
+welcome to the cse113 lab 1: a simple geometry calculator. Please enter a number between from 1 to 12 based on the desired function.
+please enter a character: 
+enter r for rectangles 
+enter t for triangles 
+enter c for circles 
+enter p for regular polygons 
+r
+enter an integer from 1 to 3
+enter 1 for area.
+enter 2 for perimeter.
+enter 3 for diagonal.
+1
+input rectangle length
+5
+input rectangle height
+5
+the area of this rectangle is 25
+]0;joey@joey-P7xxDM-G: ~/cse113/lab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab2[00m$ ./calculator2
+welcome to the cse113 lab 1: a simple geometry calculator. Please enter a number between from 1 to 12 based on the desired function.
+please enter a character: 
+enter r for rectangles 
+enter t for triangles 
+enter c for circles 
+enter p for regular polygons 
+r2 
+enter an integer from 1 to 3
+enter 1 for area.
+enter 2 for perimeter.
+enter 3 for diagonal.
+2
+input rectangle length
+5
+input rectangle height
+5
+the perimeter of the rectangle is 20
+]0;joey@joey-P7xxDM-G: ~/cse113/lab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab2[00m$ ./calculator2
+welcome to the cse113 lab 1: a simple geometry calculator. Please enter a number between from 1 to 12 based on the desired function.
+please enter a character: 
+enter r for rectangles 
+enter t for triangles 
+enter c for circles 
+enter p for regular polygons 
+r3 
+enter an integer from 1 to 3
+enter 1 for area.
+enter 2 for perimeter.
+enter 3 for diagonal.
+3
+enter side 1
+3
+enter side 2
+4
+the diagonal is 5.000000]0;joey@joey-P7xxDM-G: ~/cse113/lab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab2[00m$ ./calculator2
+welcome to the cse113 lab 1: a simple geometry calculator. Please enter a number between from 1 to 12 based on the desired function.
+please enter a character: 
+enter r for rectangles 
+enter t for triangles 
+enter c for circles 
+enter p for regular polygons 
+t
+enter an integer from 1 to 3
+enter 1 for area.
+enter 2 for right triangle hypotenuse.
+enter 3 for perimeter.
+1
+enter base length
+4
+enter height
+4
+the area of the triangle is 8.000000
+]0;joey@joey-P7xxDM-G: ~/cse113/lab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab2[00m$ ./calculator2
+welcome to the cse113 lab 1: a simple geometry calculator. Please enter a number between from 1 to 12 based on the desired function.
+please enter a character: 
+enter r for rectangles 
+enter t for triangles 
+enter c for circles 
+enter p for regular polygons 
+t
+enter an integer from 1 to 3
+enter 1 for area.
+enter 2 for right triangle hypotenuse.
+enter 3 for perimeter.
+2
+enter side 1
+3
+enter side 2
+4
+the hypotenuse is 5.000000
+]0;joey@joey-P7xxDM-G: ~/cse113/lab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab2[00m$ ./calculator2
+welcome to the cse113 lab 1: a simple geometry calculator. Please enter a number between from 1 to 12 based on the desired function.
+please enter a character: 
+enter r for rectangles 
+enter t for triangles 
+enter c for circles 
+enter p for regular polygons 
+t
+enter an integer from 1 to 3
+enter 1 for area.
+enter 2 for right triangle hypotenuse.
+enter 3 for perimeter.
+3
+enter first side
+3
+enter second side
+3
+enter third side
+3
+the perimeter of the triange is 9.000000
+]0;joey@joey-P7xxDM-G: ~/cse113/lab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab2[00m$ ./calculator2
+welcome to the cse113 lab 1: a simple geometry calculator. Please enter a number between from 1 to 12 based on the desired function.
+please enter a character: 
+enter r for rectangles 
+enter t for triangles 
+enter c for circles 
+enter p for regular polygons 
+c
+enter an integer from 1 to 3
+enter 1 for circumference.
+enter 2 for area.
+1
+enter diameter of circle5  5
+the area of the circle is 19.634954
+]0;joey@joey-P7xxDM-G: ~/cse113/lab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab2[00m$ ./calculator2
+welcome to the cse113 lab 1: a simple geometry calculator. Please enter a number between from 1 to 12 based on the desired function.
+please enter a character: 
+enter r for rectangles 
+enter t for triangles 
+enter c for circles 
+enter p for regular polygons 
+c
+enter an integer from 1 to 3
+enter 1 for circumference.
+enter 2 for area.
+2
+enter circle diameter. 5
+the perimeter of the circle is 15.707963
+]0;joey@joey-P7xxDM-G: ~/cse113/lab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab2[00m$ ./calculator2gcc -g -Wall lab2.c -lm -o calculator2[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[25P./calculator2
+welcome to the cse113 lab 1: a simple geometry calculator. Please enter a number between from 1 to 12 based on the desired function.
+please enter a character: 
+enter r for rectangles 
+enter t for triangles 
+enter c for circles 
+enter p for regular polygons 
+p
+enter an integer from 1 to 3
+enter 1 for exterior angle measure.
+enter 2 for sum of interior angles.
+enter 3 for area.
+1
+enter number of sides
+5
+the exterior angle measure is 72.000000 degrees
+]0;joey@joey-P7xxDM-G: ~/cse113/lab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab2[00m$ ./calculator2
+welcome to the cse113 lab 1: a simple geometry calculator. Please enter a number between from 1 to 12 based on the desired function.
+please enter a character: 
+enter r for rectangles 
+enter t for triangles 
+enter c for circles 
+enter p for regular polygons 
+p
+enter an integer from 1 to 3
+enter 1 for exterior angle measure.
+enter 2 for sum of interior angles.
+enter 3 for area.
+2
+enter number of sides
+5
+the sum of the interior angles is 108.000000 degrees
+]0;joey@joey-P7xxDM-G: ~/cse113/lab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab2[00m$ ./calculator2
+welcome to the cse113 lab 1: a simple geometry calculator. Please enter a number between from 1 to 12 based on the desired function.
+please enter a character: 
+enter r for rectangles 
+enter t for triangles 
+enter c for circles 
+enter p for regular polygons 
+p
+enter an integer from 1 to 3
+enter 1 for exterior angle measure.
+enter 2 for sum of interior angles.
+enter 3 for area.
+3
+enter length of a side
+6 5
+enter number of sides
+2
+the area of a regular polygon with 2.000000 sides, each 5.000000 long, is -0.000000
+]0;joey@joey-P7xxDM-G: ~/cse113/lab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab2[00m$ ./calculator2
+welcome to the cse113 lab 1: a simple geometry calculator. Please enter a number between from 1 to 12 based on the desired function.
+please enter a character: 
+enter r for rectangles 
+enter t for triangles 
+enter c for circles 
+enter p for regular polygons 
+p
+enter an integer from 1 to 3
+enter 1 for exterior angle measure.
+enter 2 for sum of interior angles.
+enter 3 for area.
+3
+enter length of a side
+3
+enter number of sides
+5 7
+the area of a regular polygon with 7.000000 sides, each 3.000000 long, is 32.705212
+]0;joey@joey-P7xxDM-G: ~/cse113/lab2[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab2[00m$ exit
+exit
+
+Script done on Mon 19 Sep 2016 10:51:02 AM MDT
