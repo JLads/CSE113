@@ -1,0 +1,9 @@
+Lab one: a basic geometric calculator
+
+In this lab activity the uses of functions, integers, floats, and doubles were applied to create a geometric calculator. The project held heavy emphasis on reading user input and translating that into an output. 
+
+When it comes to function selection I decided to make a menu style selector. I learned here how to use if - else statements as a result. The if - else blocks are useful for controling flow and executing one part of the function codes as opposed to wasting the time to do them all when the user only wants to use one of the functions. 
+
+To my suprise there was little issue compiling the code. My main problem was the format of if - else blocks. Having learned that most other problems were miss matches in declaration and use of variables that were easy to fix. Knowing what symbols and how to call different variable types will come with practice but i am glad to have learned how to do floats and doubles as a start. 
+
+This code could use a way to determine if the user wants floating points, doubles, or integers for each function. Also I would like to learn how to create a loop back to the beginning of the code from the end of each individual function except the exit option. 

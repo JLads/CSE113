@@ -1,0 +1,238 @@
+Script started on Mon 12 Sep 2016 03:04:46 PM MDT
+]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ vim lagrange_interpolation.c gcc[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kgcc -g -Wall lab1.c -lm  -o calcula tor
+]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ 
+]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ gcc -g -Wall lab1.c -lm -o calculat or
+]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ gcc -g -Wall lab1.c -lm -o calculatoor[A]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -o calculator[A]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ [6Pvim lagrange_interpolation.c 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd foocse113/ls[Kminessudo apt install sgt-puzzlesmines[K[3Pcdls[K[K./calculator
+welcome to the cse113 lab 1: a simple geometry calculator.
+enter 1 for rectangle area *integers*
+enter 2 for rectangle perimerter
+enter 3 for rectangle diagonal
+enter 4 for circle area
+enter 5 for circle circumfrence
+enter 6 for triangle area
+enter 7 for right triangle hypotenuse
+enter 8 for perimeter of a triangle
+enter 9 for exterior angles
+enter 10 for interior angles
+enter 11 for regular polygon calculation
+enter 12 to exit
+1
+input rectangle length 4
+input rectangle height 5
+the area of this rectangle is 20
+]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ ./calculator
+welcome to the cse113 lab 1: a simple geometry calculator.
+enter 1 for rectangle area *integers*
+enter 2 for rectangle perimerter
+enter 3 for rectangle diagonal
+enter 4 for circle area
+enter 5 for circle circumfrence
+enter 6 for triangle area
+enter 7 for right triangle hypotenuse
+enter 8 for perimeter of a triangle
+enter 9 for exterior angles
+enter 10 for interior angles
+enter 11 for regular polygon calculation
+enter 12 to exit
+2
+input rectangle length 4
+input rectangle height 5
+the perimeter of the rectangle is 18
+]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ ./calculator
+welcome to the cse113 lab 1: a simple geometry calculator.
+enter 1 for rectangle area *integers*
+enter 2 for rectangle perimerter
+enter 3 for rectangle diagonal
+enter 4 for circle area
+enter 5 for circle circumfrence
+enter 6 for triangle area
+enter 7 for right triangle hypotenuse
+enter 8 for perimeter of a triangle
+enter 9 for exterior angles
+enter 10 for interior angles
+enter 11 for regular polygon calculation
+enter 12 to exit
+ 3
+enter side 1 3
+enter side 2 4
+the diagonal is 5.000000]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ 
+]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ ./calculator4[K
+welcome to the cse113 lab 1: a simple geometry calculator.
+enter 1 for rectangle area *integers*
+enter 2 for rectangle perimerter
+enter 3 for rectangle diagonal
+enter 4 for circle area
+enter 5 for circle circumfrence
+enter 6 for triangle area
+enter 7 for right triangle hypotenuse
+enter 8 for perimeter of a triangle
+enter 9 for exterior angles
+enter 10 for interior angles
+enter 11 for regular polygon calculation
+enter 12 to exit
+4
+enter diameter of circle 10
+the area of the circle is 78.539818
+]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ ./calculator
+welcome to the cse113 lab 1: a simple geometry calculator.
+enter 1 for rectangle area *integers*
+enter 2 for rectangle perimerter
+enter 3 for rectangle diagonal
+enter 4 for circle area
+enter 5 for circle circumfrence
+enter 6 for triangle area
+enter 7 for right triangle hypotenuse
+enter 8 for perimeter of a triangle
+enter 9 for exterior angles
+enter 10 for interior angles
+enter 11 for regular polygon calculation
+enter 12 to exit
+5
+enter circle diameter. 10
+the perimeter of the circle is 31.415926
+]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ ./calculator
+welcome to the cse113 lab 1: a simple geometry calculator.
+enter 1 for rectangle area *integers*
+enter 2 for rectangle perimerter
+enter 3 for rectangle diagonal
+enter 4 for circle area
+enter 5 for circle circumfrence
+enter 6 for triangle area
+enter 7 for right triangle hypotenuse
+enter 8 for perimeter of a triangle
+enter 9 for exterior angles
+enter 10 for interior angles
+enter 11 for regular polygon calculation
+enter 12 to exit
+6
+enter base length 5 
+enter height 7
+the area of the triangle is 17.500000
+]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ ./calculator
+welcome to the cse113 lab 1: a simple geometry calculator.
+enter 1 for rectangle area *integers*
+enter 2 for rectangle perimerter
+enter 3 for rectangle diagonal
+enter 4 for circle area
+enter 5 for circle circumfrence
+enter 6 for triangle area
+enter 7 for right triangle hypotenuse
+enter 8 for perimeter of a triangle
+enter 9 for exterior angles
+enter 10 for interior angles
+enter 11 for regular polygon calculation
+enter 12 to exit
+7
+enter side 1 5 4
+enter side 2 3
+the hypotenuse is 5.000000
+]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ ./calculator
+welcome to the cse113 lab 1: a simple geometry calculator.
+enter 1 for rectangle area *integers*
+enter 2 for rectangle perimerter
+enter 3 for rectangle diagonal
+enter 4 for circle area
+enter 5 for circle circumfrence
+enter 6 for triangle area
+enter 7 for right triangle hypotenuse
+enter 8 for perimeter of a triangle
+enter 9 for exterior angles
+enter 10 for interior angles
+enter 11 for regular polygon calculation
+enter 12 to exit
+8
+enter first side 5
+enter second side 6 
+enter third side 7
+the perimeter of the triange is 18.000000
+]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ ./calculator
+welcome to the cse113 lab 1: a simple geometry calculator.
+enter 1 for rectangle area *integers*
+enter 2 for rectangle perimerter
+enter 3 for rectangle diagonal
+enter 4 for circle area
+enter 5 for circle circumfrence
+enter 6 for triangle area
+enter 7 for right triangle hypotenuse
+enter 8 for perimeter of a triangle
+enter 9 for exterior angles
+enter 10 for interior angles
+enter 11 for regular polygon calculation
+enter 12 to exit
+9
+enter number of sides 10
+the exterior angle measure is 36.000000 degrees
+]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ 
+]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ ./calculator
+welcome to the cse113 lab 1: a simple geometry calculator.
+enter 1 for rectangle area *integers*
+enter 2 for rectangle perimerter
+enter 3 for rectangle diagonal
+enter 4 for circle area
+enter 5 for circle circumfrence
+enter 6 for triangle area
+enter 7 for right triangle hypotenuse
+enter 8 for perimeter of a triangle
+enter 9 for exterior angles
+enter 10 for interior angles
+enter 11 for regular polygon calculation
+enter 12 to exit
+10
+enter number of sides 15
+the sum of the interior angles is 156.000000 degrees
+]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ 
+]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ ./calculator
+welcome to the cse113 lab 1: a simple geometry calculator.
+enter 1 for rectangle area *integers*
+enter 2 for rectangle perimerter
+enter 3 for rectangle diagonal
+enter 4 for circle area
+enter 5 for circle circumfrence
+enter 6 for triangle area
+enter 7 for right triangle hypotenuse
+enter 8 for perimeter of a triangle
+enter 9 for exterior angles
+enter 10 for interior angles
+enter 11 for regular polygon calculation
+enter 12 to exit
+11
+enter length of a side 10
+enter number of sides20
+the area of a regular polygon with 20.000000 sides, each 10.000000 long, is 3156.875757
+]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ ./calculator
+welcome to the cse113 lab 1: a simple geometry calculator.
+enter 1 for rectangle area *integers*
+enter 2 for rectangle perimerter
+enter 3 for rectangle diagonal
+enter 4 for circle area
+enter 5 for circle circumfrence
+enter 6 for triangle area
+enter 7 for right triangle hypotenuse
+enter 8 for perimeter of a triangle
+enter 9 for exterior angles
+enter 10 for interior angles
+enter 11 for regular polygon calculation
+enter 12 to exit
+12
+I see how it is. Can do the work yourself eh?
+]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ ./calculator
+welcome to the cse113 lab 1: a simple geometry calculator.
+enter 1 for rectangle area *integers*
+enter 2 for rectangle perimerter
+enter 3 for rectangle diagonal
+enter 4 for circle area
+enter 5 for circle circumfrence
+enter 6 for triangle area
+enter 7 for right triangle hypotenuse
+enter 8 for perimeter of a triangle
+enter 9 for exterior angles
+enter 10 for interior angles
+enter 11 for regular polygon calculation
+enter 12 to exit
+how bot    out no
+first go learn to follow directions please.
+]0;joey@joey-P7xxDM-G: ~/cse113/Lab1_calculator[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/Lab1_calculator[00m$ exit
+exit
+
+Script done on Mon 12 Sep 2016 03:08:45 PM MDT
