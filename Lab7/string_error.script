@@ -1,0 +1,46 @@
+Script started on Mon 24 Oct 2016 10:04:06 AM MDT
+]0;joey@joey-P7xxDM-G: ~/113cse/lab7[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/113cse/lab7[00m$ gcc -g -Wall rin[K[K[K[Ksr[K[K string_error.s[Kc
+]0;joey@joey-P7xxDM-G: ~/113cse/lab7[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/113cse/lab7[00m$ ./a.out
+the original string:
+c run, run c run
+Segmentation fault (core dumped)
+]0;joey@joey-P7xxDM-G: ~/113cse/lab7[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/113cse/lab7[00m$ gdb a.out
+GNU gdb (Ubuntu 7.11.1-0ubuntu1~16.04) 7.11.1
+Copyright (C) 2016 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from a.out...done.
+(gdb) run
+Starting program: /home/joey/113cse/lab7/a.out 
+the original string:
+c run, run c run
+
+Program received signal SIGSEGV, Segmentation fault.
+0x0000000000400565 in main () at string_error.c:15
+15				*p = 'f'; /* change the value */
+(gdb) bt
+#0  0x0000000000400565 in main () at string_error.c:15
+(gdb) bt full
+#0  0x0000000000400565 in main () at string_error.c:15
+        s = 0x400624 "c run, run c run"
+        p = 0x400626 "run, run c run"
+(gdb) q
+A debugging session is active.
+
+	Inferior 1 [process 6562] will be killed.
+
+Quit anyway? (y or n) y
+]0;joey@joey-P7xxDM-G: ~/113cse/lab7[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/113cse/lab7[00m$ exit
+exit
+
+Script done on Mon 24 Oct 2016 10:05:09 AM MDT

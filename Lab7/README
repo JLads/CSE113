@@ -1,0 +1,9 @@
+The purpose of this lab was to continue reinforcing the use of pointers and to start an understanding of malloc and heap functions. The early parts were string and pointer practice and then malloc came in where we had to use data stored in the heap and pointed to by a pointer.
+
+
+What I learned
+
+I got a good reinforcement on pointers from this. Malloc makes sense for the most part. I also leaned that I need to stop doubing my ability to code well and be more confident in my work. The revisit to lab 3 was nice as it refreshed my memory on sorting arrays a bit. 
+
+What i would like to be different
+The lab itself is fine as far as i could tell. The only change I would make to the activity is my understanding of how to sgetf from a document or file. I will be hitting the books and tutors for work on that. 
