@@ -1,0 +1,18 @@
+
+Joseph Ladino
+Lab5 README
+
+Purpose.
+The purpose of the lab is to work with array of structures more in reading and writing to one. Also more practice with thinking in algorithims and practice with using other methoods of scanning input than scanf.
+
+What I learned
+I learned just how painful it is to try and tackle a problem head on instead of dividing it into smaller parts that are solved one step at a time. I also learned how to set up an index for an array better and also that exact placement of code lines can change the whole function.
+
+
+What could be better
+I would like to know how to go through code more efficiently and also be able to debug faster. Sometimes it takes me a while to understand what a section of code means. Thinking in reverse algorithims is something to work on. I need to practice more. The cs tutor room helps me greatly. 
+
+
+
+Bugs
+My index in zombie main is not quite working correctly. I would need to rewrite with a more solid index system in the future. I will likely copy the code to another file and tinker with it some to see what i can do to make it more stable.

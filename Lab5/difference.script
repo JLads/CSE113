@@ -1,0 +1,14 @@
+Script started on Thu 13 Oct 2016 02:22:17 PM MDT
+]0;joey@joey-P7xxDM-G: ~/113cse/lab5[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/113cse/lab5[00m$ gcc -g -Wall D[Kdifference.c
+/tmp/ccHYTb4O.o: In function `sum_of_squared':
+/home/joey/113cse/lab5/difference.c:72: undefined reference to `pow'
+collect2: error: ld returned 1 exit status
+]0;joey@joey-P7xxDM-G: ~/113cse/lab5[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/113cse/lab5[00m$ gcc -g -Wall difference.c -lm
+]0;joey@joey-P7xxDM-G: ~/113cse/lab5[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/113cse/lab5[00m$ ./a.out
+the sum(1-100)^2 is 25502500
+the sum(1^2 - 100^2) = 338350
+the difference between the sum of the numbers 0-100 squared and the sum of the square of all whole numbers 1-100 is 25164150
+]0;joey@joey-P7xxDM-G: ~/113cse/lab5[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/113cse/lab5[00m$ exit
+exit
+
+Script done on Thu 13 Oct 2016 02:22:39 PM MDT
