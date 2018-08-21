@@ -1,0 +1,62 @@
+Script started on Thu 06 Oct 2016 07:27:50 PM MDT
+]0;joey@joey-P7xxDM-G: ~/cse113/lab4[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab4[00m$ gcc -g -Wall vector_main.c vector.0[Ko -o lab4a
+]0;joey@joey-P7xxDM-G: ~/cse113/lab4[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab4[00m$ ./lab4a
+problem 1
+5, 10, 15, 20, 25, 30, 35, 40, 45, 15, 
+
+problem 2
+4, 5, 6, 7, 8, 9, 10, 11, 12, 6, 
+
+problem 3
+1, 2, 3, 4, 5, 6, 7, 8, 9, 3, 
+
+problem 4
+11, 12, 13, 14, 15, 16, 17, 18, 19, 13, 
+
+problem 5
+10, 20, 30, 40, 50, 60, 70, 80, 90, 30, 
+
+problem 6
+3, 18, 24, 28, 30, 30, 28, 24, 18, 3, 
+
+problem 7
+3, 9, 8, 7, 5, 6, 4, 3, 2, 1, 
+
+problem 8
+41, 2, 15, 32, 34, 34, 39, 0, 41, 39, 
+]0;joey@joey-P7xxDM-G: ~/cse113/lab4[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab4[00m$ ls
+[0m[01;32ma.out[0m           [01;32mlab4a[0m             lab4_q2.c       [01;32mvector.c[0m
+[01;32marray_struct.c[0m  [01;32mlab4b[0m             lab4_q2.script  [01;32mvector.h[0m
+[01;32marray_struct.h[0m  lab4_main.script  lab4_q3.c       [01;32mvector_main.c[0m
+array_struct.o  lab4_q1.txt       lab4_q4.c       vector.o
+]0;joey@joey-P7xxDM-G: ~/cse113/lab4[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab4[00m$ gcc -g -Wall array_struct.c
+]0;joey@joey-P7xxDM-G: ~/cse113/lab4[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab4[00m$ ./a.out
+the data array is as follows;
+id: 65, age: 23 years, height: 74 inches
+id: 66, age: 22 years, height: 64 inches
+id: 67, age: 19 years, height: 68 inches
+id: 68, age: 20 years, height: 76 inches
+id: 69, age: 22 years, height: 62 inches
+average age is 21 years
+the average height is 68 inches
+
+ minimum age
+id: 67, age: 19 years, height: 68 inches
+
+ maximum age
+id: 65, age: 23 years, height: 74 inches
+
+ minimum height
+id: 69, age: 22 years, height: 62 inches
+
+ maximum height
+id: 68, age: 20 years, height: 76 inches
+]0;joey@joey-P7xxDM-G: ~/cse113/lab4[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab4[00m$ ls
+[0m[01;32ma.out[0m           [01;32mlab4a[0m             lab4_q2.c       [01;32mvector.c[0m
+[01;32marray_struct.c[0m  [01;32mlab4b[0m             lab4_q2.script  [01;32mvector.h[0m
+[01;32marray_struct.h[0m  lab4_main.script  lab4_q3.c       [01;32mvector_main.c[0m
+array_struct.o  lab4_q1.txt       lab4_q4.c       vector.o
+]0;joey@joey-P7xxDM-G: ~/cse113/lab4[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab4[00m$ exit
+exit
+
+Script done on Thu 06 Oct 2016 07:28:42 PM MDT

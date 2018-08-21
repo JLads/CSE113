@@ -1,0 +1,40 @@
+Script started on Thu 06 Oct 2016 08:03:54 PM MDT
+]0;joey@joey-P7xxDM-G: ~/cse113/lab4[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab4[00m$ exit./a.outgcc -g -Wall lab4_q4.c
+]0;joey@joey-P7xxDM-G: ~/cse113/lab4[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab4[00m$ gcc -g -Wall lab4_q4.cexit[K./a.out
+enter a date (mm dd yyyy)
+4 26 1353
+April 26, 1353
+You are a Tarus.
+would you like to do it again?
+1 for yes
+2 for no 
+1
+enter a date (mm dd yyyy)
+7 32 `   1 345 23
+July 31, 3423
+You are a Leo.
+would you like to do it again?
+1 for yes
+2 for no 
+1
+enter a date (mm dd yyyy)
+12 2
+5   2312
+December 2, 2312
+you are a Sagittarius.
+would you like to do it again?
+1 for yes
+2 for no 
+1
+enter a date (mm dd yyyy)
+23  12 25 99  0132
+December 25, 132
+You are an Aquarius.
+would you like to do it again?
+1 for yes
+2 for no 
+2
+]0;joey@joey-P7xxDM-G: ~/cse113/lab4[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab4[00m$ exit
+exit
+
+Script done on Thu 06 Oct 2016 08:04:44 PM MDT

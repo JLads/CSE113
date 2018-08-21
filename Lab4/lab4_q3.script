@@ -1,0 +1,39 @@
+Script started on Thu 06 Oct 2016 07:38:23 PM MDT
+]0;joey@joey-P7xxDM-G: ~/cse113/lab4[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab4[00m$ exitgcc -g -Wall lab4_q3.c -lm
+]0;joey@joey-P7xxDM-G: ~/cse113/lab4[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab4[00m$ ./a.out
+ enter a point x y
+2 25  4
+ enter a point x y
+3 1
+2.000000 4.000000; 3.000000, 1.000000
+the euclidean distance is
+3.162278.
+
+ the manhattan distance is
+4.000000.
+]0;joey@joey-P7xxDM-G: ~/cse113/lab4[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab4[00m$ ./a.out
+ enter a point x y
+0 4 
+ enter a point x y
+0 10
+0.000000 4.000000; 0.000000, 10.000000
+the euclidean distance is
+6.000000.
+
+ the manhattan distance is
+6.000000.
+]0;joey@joey-P7xxDM-G: ~/cse113/lab4[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab4[00m$ ./a.out
+ enter a point x y
+4 292
+ enter a point x y
+3945  234
+4.000000 292.000000; 394.000000, 234.000000
+the euclidean distance is
+394.289234.
+
+ the manhattan distance is
+448.000000.
+]0;joey@joey-P7xxDM-G: ~/cse113/lab4[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab4[00m$ exit
+exit
+
+Script done on Thu 06 Oct 2016 07:39:35 PM MDT

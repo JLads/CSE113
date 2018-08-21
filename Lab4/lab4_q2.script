@@ -1,0 +1,8 @@
+Script started on Sun 02 Oct 2016 01:36:53 PM MDT
+]0;joey@joey-P7xxDM-G: ~/cse113/lab4[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab4[00m$ vcc[K[K[Kgcc -g -Wall lab3[K4_q2.c
+]0;joey@joey-P7xxDM-G: ~/cse113/lab4[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab4[00m$ ./a.out
+RED = 18, Oarnge = 19, Yellow = 5, Green = 6, Blue = 7, Indigo = 14, Violet = 15
+]0;joey@joey-P7xxDM-G: ~/cse113/lab4[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab4[00m$ exit
+exit
+
+Script done on Sun 02 Oct 2016 01:37:20 PM MDT

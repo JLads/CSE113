@@ -1,0 +1,18 @@
+Lab 4 readme
+Joseph ladino
+
+Puropose 
+This lab was intened to improve structure mechanics and introduce using arrays containing structures. It also had more general practice and introduced basic enumerations. 
+
+
+What i learned
+Here I learned how to use pointers some to alter data at an address from functions and basic enumerations. I have also learned that pointers will be a pain for a while until I get them down.
+
+
+What to improve 
+I would like to improve my ability to think through problems faster and also improve my interpretation of debuggin warnings and errors. They would allow me to speed up my programming.
+
+
+
+
+Note: the script for vector.c and array_struct.c is in lab4_main.script.
