@@ -1,0 +1,57 @@
+
+Joseph Ladino
+Lab3
+
+Purpose
+this lab is intended to teach more array functions and how to use scructures to call variables and make life alot easier than having one function with 13 parameters. Part 3 is more review on nested switch statements and while loops and part four introduces luhn's algorithim, with more array practice included.
+
+
+Psudocode
+//get_count
+//count number of values in relation to x
+//a[1....n], array with n elements
+count = 0
+for i = 1 to i = n
+	if a[i] relation here (>, <, ==, >=, <=) x
+		increase count by 1
+
+
+//swap a and b
+//switches each a and b in array
+//array prints in reverse order
+tmp = a
+a = b
+b = tmp
+//apply to the whole array
+
+//count_evens
+//counts evens in array
+count = 0
+for i = 1 to i = size of array
+	if a[i] mod  2 = 0 (making it an even number)
+		increase count by 1
+
+//count_odds
+//counts odds in array
+count = 0
+for i = 1 to i = size of array
+	if a[i] mod 2 not = 0 (making int an odd number)
+		increase count by 1
+
+//count_divby
+//counts numbers divisible by x
+count = 0
+for i = 1 to i = size of array
+	if a[i] mod x = 0 (meaning the term is evenly divisble by x)
+	increase count by one
+
+What I learned
+Here I learned how to make and use a structure ( a lot nicer than having 13 params in one function.) and how to manage seperate header files from outside the main code. It so happened that my windows side of my dual boot had problems so i ended up having to reimage and reinstall linux so I am thankful that I have been religously saving things to drop box. Life saver right there. 
+
+
+Bugs with code
+Most of my bugs were syntax, which is still something to practice, as well as learning how to use structures to call funcions instead of calling them from main. 
+
+
+things to improve
+I need to work on my coding syntax and catching small errors faster. I also need to learn what some common errors mean so that I can resolve them in compiling faster. 

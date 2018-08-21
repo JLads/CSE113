@@ -1,0 +1,456 @@
+Script started on Thu 29 Sep 2016 06:59:26 PM MDT
+]0;joey@joey-P7xxDM-G: ~/cse113/lab3[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab3[00m$ gcc -g -w[KWall rock-spock.c
+]0;joey@joey-P7xxDM-G: ~/cse113/lab3[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab3[00m$ ./a.out
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 1
+the cpu wins.
+lizzard eats the paper
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 3
+the cpu wins.
+The lizard got its head cut off.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 2
+the cpu wins.
+spock vaporized the scissors.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 4
+the cpu wins.
+spock got a bad grade on the paper.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 4
+The player wins.
+Spock vaporized the scissors.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 4
+the cpu wins.
+Spock was poisoned to death by the lizard.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 2
+the cpu wins.
+spock vaporized the scissors.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 1
+the cpu wins.
+lizzard eats the paper
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 3
+The player wins.
+lizard nom noms the paper.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 4
+the cpu wins.
+spock got a bad grade on the paper.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 1
+The player wins.
+Paper proved spock wrong... somehow.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 3
+The player wins.
+lizard nom noms the paper.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 2
+The player wins.
+scissors cut paper a deal, a slice of life.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 4
+the cpu wins.
+spock got a bad grade on the paper.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 1
+the cpu wins.
+lizzard eats the paper
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 4
+It's a Tie.
+your highly emotional reactions are most illogical.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 2
+the cpu wins.
+spock vaporized the scissors.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 1
+The player wins.
+Paper covers a rock to win?
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 3
+It's a Tie.
+Two lizards stare at each other on a rock.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 2
+The player wins.
+scissors decapitates the poor lizard.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 1
+The player wins.
+Paper proved spock wrong... somehow.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 1
+The player wins.
+Paper proved spock wrong... somehow.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 3
+It's a Tie.
+Two lizards stare at each other on a rock.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 2
+The player wins.
+scissors cut paper a deal, a slice of life.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 4
+the cpu wins.
+Spock was poisoned to death by the lizard.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 1
+the cpu wins.
+lizzard eats the paper
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 3
+The player wins.
+spock got poisoned by lizard.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 2
+It's a Tie.
+#gypsey knife fight.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 1
+The player wins.
+Paper proved spock wrong... somehow.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 3
+the cpu wins.
+The lizard got its head cut off.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 4
+The player wins.
+Spock vaporized the rock.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 1
+the cpu wins.
+lizzard eats the paper
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 3
+the cpu wins.
+The lizard got its head cut off.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 2
+the cpu wins.
+spock vaporized the scissors.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 1
+The player wins.
+Paper proved spock wrong... somehow.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 0
+the cpu wins.
+spock vaporized the rock.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 0
+the cpu wins.
+spock vaporized the rock.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 2
+The player wins.
+scissors cut paper a deal, a slice of life.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 10 
+the cpu wins.
+lizzard eats the paper
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 0
+The player wins.
+The rock smashes the scissors.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 0
+The player wins.
+The rock smashes the scissors.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 2
+It's a Tie.
+#gypsey knife fight.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 30 
+It's a Tie.
+Two lizards stare at each other on a rock.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 0
+It's a Tie.
+Two rocks walk into a bar. Tie.
+Enter a move:
+0 for ROCK
+1 for PAPER
+2 for SCISSORS
+3 for LIZARD
+4 for SPOCK
+5 to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: 5
+quitting already?
+]0;joey@joey-P7xxDM-G: ~/cse113/lab3[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab3[00m$ esit[K[K[Kxit
+exit
+
+Script done on Thu 29 Sep 2016 07:00:23 PM MDT

@@ -1,0 +1,45 @@
+Script started on Thu 29 Sep 2016 07:59:50 PM MDT
+]0;joey@joey-P7xxDM-G: ~/cse113/lab3[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab3[00m$ .[Kexit./a.outgcc -g -Wall rock-spock.c[K[K[K[K[K[K[K[K[K[K[K[Kcredit.q[K[K.
+credit.c       credit.script  
+]0;joey@joey-P7xxDM-G: ~/cse113/lab3[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab3[00m$ gcc -g -Wall credit.c
+]0;joey@joey-P7xxDM-G: ~/cse113/lab3[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab3[00m$ ./a.out
+card[0] = 8
+card[1] = 0
+card[2] = 2
+card[3] = 2
+card[4] = 7
+card[5] = 8
+card[6] = 7
+card[7] = 8
+card[8] = 7
+card[9] = 8
+card[10] = 7
+card[11] = 8
+card[12] = 2
+card[13] = 8
+card[14] = 7
+card[15] = 1
+this card is valid
+]0;joey@joey-P7xxDM-G: ~/cse113/lab3[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab3[00m$ ./a.outgcc -g -Wall credit.c
+]0;joey@joey-P7xxDM-G: ~/cse113/lab3[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab3[00m$ gcc -g -Wall credit.c[14P./a.out
+card[0] = 8
+card[1] = 0
+card[2] = 2
+card[3] = 2
+card[4] = 7
+card[5] = 8
+card[6] = 7
+card[7] = 8
+card[8] = 7
+card[9] = 8
+card[10] = 7
+card[11] = 8
+card[12] = 2
+card[13] = 8
+card[14] = 7
+card[15] = 2
+this card is invalid.
+]0;joey@joey-P7xxDM-G: ~/cse113/lab3[01;32mjoey@joey-P7xxDM-G[00m:[01;34m~/cse113/lab3[00m$ exit
+exit
+
+Script done on Thu 29 Sep 2016 08:00:44 PM MDT
