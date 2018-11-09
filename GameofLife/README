@@ -1,0 +1,5 @@
+This is conways game of life.
+This project used sdl for rendering and allowed for many sdl options to affect what is displayed.
+Many memory leaks come from the sdl code which was provided for me. 
+
+The function to determine a non-default starting position for patterns does not quite work.
